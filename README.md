@@ -66,7 +66,7 @@ Note:
   - zstd, if your kernel modules use .zst compression
 
   Debian package example for BIOS and amd64 UEFI:
-     apt install squashfs-tools grub-pc-bin grub-efi-amd64-bin xorriso mtools zip xz-utils
+     sudo apt install squashfs-tools grub-pc-bin grub-efi-amd64-bin xorriso mtools zip xz-utils -y
   Add grub-efi-ia32-bin if you also need 32-bit x86 UEFI firmware support.
 
 
