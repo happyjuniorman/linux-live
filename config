@@ -8,7 +8,7 @@
 # For example, Slax changes it to 'slax'
 # Must not contain any spaces.
 # GRUB paths are generated automatically; no bootloader patching is needed.
-LIVEKITNAME="linux"
+LIVEKITNAME="AmogOS"
 
 # Kernel file, will be copied to your Live Kit
 # Your kernel must support SquashFS and either OverlayFS or AUFS.
